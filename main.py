@@ -46,43 +46,12 @@ def logTel(payload):
         node["telemetry"] = []
     new = {}
     new["time"] = payload["timestamp"]
-    if "temperature" in payload:
-        new["temperature"] = payload["temperature"]
+    opts = ["temperature", "relative_humidity", "barometric_pressure", "gas_resistance", "voltage", "current", "voltage_ch1", "current_ch1", "voltage_ch2", "current_ch2", "voltage_ch3", "current_ch3"]
+    for i in opts:
+        if i in payload["payload"]:
+            new[i] = payload["payload"][i]
 
-    if "relative_humidity" in payload:
-        new["relative_humidity"] = payload["relative_humidity"]
-
-    if "barometric_pressure" in payload:
-        new["barometric_pressure"] = payload["barometric_pressure"]
-
-    if "gas_resistance" in payload:
-        new["gas_resistance"] = payload["gas_resistance"]
-
-    if "voltage" in payload:
-        new["voltage"] = payload["voltage"]
-
-    if "current" in payload:
-        new["current"] = payload["current"]
-
-    if "voltage_ch1" in payload:
-        new["voltage_ch1"] = payload["voltage_ch1"]
-
-    if "current_ch1" in payload:
-        new["current_ch1"] = payload["current_ch1"]
-
-    if "voltage_ch2" in payload:
-        new["voltage_ch2"] = payload["voltage_ch2"]
-
-    if "current_ch2" in payload:
-        new["current_ch2"] = payload["current_ch2"]
-
-    if "voltage_ch3" in payload:
-        new["voltage_ch3"] = payload["voltage_ch3"]
-
-    if "current_ch3" in payload:
-        new["current_ch3"] = payload["current_ch3"]
-
-    node["telemetry"].append({"time": 5})
+    node["telemetry"].append(new)
 
     f = open("NodeList.json", "w")
     json.dump(data, f, ensure_ascii=False, indent=4)
