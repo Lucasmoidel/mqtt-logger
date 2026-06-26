@@ -1,0 +1,6151 @@
+{
+    "nodes": [
+        {
+            "id": "!0d0c4d81",
+            "sName": "DVB",
+            "lName": "DV Base",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!d3985cdb",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SNDA",
+            "lName": "SolarSender | bayme.sh"
+        },
+        {
+            "id": "!30ca4899",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "LBA",
+            "lName": "KO6LBA rak"
+        },
+        {
+            "id": "!7adc46c9",
+            "sName": "LOVE",
+            "lName": "Love Shack BayMe.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!f6915d64",
+            "sName": "mbtm",
+            "lName": "meshbrains - TrailMate"
+        },
+        {
+            "id": "!d9d22ff1",
+            "sName": "Fcar",
+            "lName": "Nil.kemorya Bot"
+        },
+        {
+            "id": "!3cb8f75e",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🌁",
+            "lName": "Golden Gate 1W"
+        },
+        {
+            "id": "!5ccf17df",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "⚾",
+            "lName": "JK | Ballpark ⚾"
+        },
+        {
+            "id": "!1267c5a0",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "KWHQ",
+            "lName": "KA5WAX-hq | bayme.sh"
+        },
+        {
+            "id": "!e00ceedc",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!a4c710d2",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "PARs",
+            "lName": "Sawmill Pk"
+        },
+        {
+            "id": "!a2eb4194",
+            "sName": "bth",
+            "lName": "Blinky Things Hospital"
+        },
+        {
+            "id": "!eb401fff",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "EBYT",
+            "lName": "Pete Pi 3b+ Ebyte"
+        },
+        {
+            "id": "!32764046",
+            "sName": "SBM7",
+            "lName": "San Bruno Mtn",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!f5f5a1c1",
+            "sName": "HPT1",
+            "lName": "Depeche Node BBS",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!70ddbfb5",
+            "sName": "NM01",
+            "lName": "Nando Mobile"
+        },
+        {
+            "id": "!82e4874c",
+            "sName": "874c",
+            "lName": "DocB LilyGo",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!336032c4",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🦷",
+            "lName": "teef [32c4]"
+        },
+        {
+            "id": "!698599b4",
+            "sName": "99b4",
+            "lName": "Coms Officer"
+        },
+        {
+            "id": "!db57a158",
+            "sName": "phx2",
+            "lName": "PhoxHub 2"
+        },
+        {
+            "id": "!07c87ff1",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "BB75",
+            "lName": "boadie"
+        },
+        {
+            "id": "!fdbd4a2d",
+            "sName": "RF03",
+            "lName": "KC6TYD-RAK-Base"
+        },
+        {
+            "id": "!7fa9fd16",
+            "sName": "ORCA",
+            "lName": "ORCA WW6OR",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!dda054cb",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!d638b7bb",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🌴",
+            "lName": "Barbier Tree Seeed 2.0"
+        },
+        {
+            "id": "!d4a704d0",
+            "sName": "bgd2",
+            "lName": "bagend02"
+        },
+        {
+            "id": "!36ac5162",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "DEV3",
+            "lName": "DEV3-ALLISON"
+        },
+        {
+            "id": "!658b3071",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "3030",
+            "lName": "Winchester"
+        },
+        {
+            "id": "!b8602c24",
+            "sName": "ZNS3",
+            "lName": "Z-NET Solar Station 3",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!7a912b08",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!b03d835c",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "GNDN",
+            "lName": "Goes Nowhere, Does Nothing"
+        },
+        {
+            "id": "!b394889d",
+            "sName": "889d",
+            "lName": "Meshtastic 889d",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!7a13e998",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "N9DK",
+            "lName": "N9DK-raven"
+        },
+        {
+            "id": "!9e768d10",
+            "sName": "BBH5",
+            "lName": "🐴"
+        },
+        {
+            "id": "!6f965875",
+            "sName": "5875",
+            "lName": "Unixis | bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!bd2bb47d",
+            "sName": "REM",
+            "lName": "WhatsTheFrequencyKenneth?"
+        },
+        {
+            "id": "!9ea29e24",
+            "sName": "RKB",
+            "lName": "Kat Base"
+        },
+        {
+            "id": "!b2a79bf8",
+            "sName": "🪵",
+            "lName": "KB6JSM🛖"
+        },
+        {
+            "id": "!d0d325da",
+            "sName": "Zmrn",
+            "lName": "ZoomAround (mobile)",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!57fc7c42",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "6KOO",
+            "lName": "KN6KOO-HapAC2-Crestmoor"
+        },
+        {
+            "id": "!180f6c0b",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🌲",
+            "lName": "Redwood"
+        },
+        {
+            "id": "!72a31311",
+            "sName": "Ggry",
+            "lName": "GideonGrey"
+        },
+        {
+            "id": "!7cd0cf5d",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "NRD1",
+            "lName": "Novato Offgrid RD1 https://bayme.sh"
+        },
+        {
+            "id": "!8488a05c",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!a95659e2",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!433ce1d4",
+            "sName": "LBAm",
+            "lName": "KO6LBA mesh"
+        },
+        {
+            "id": "!02ea6384",
+            "sName": "%",
+            "lName": "%Modulo Industries"
+        },
+        {
+            "id": "!83223244",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🐙",
+            "lName": "Squidlogic_base"
+        },
+        {
+            "id": "!87763e05",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!441dec3f",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!49a2d270",
+            "sName": "mac",
+            "lName": "noAckMac | Base ☀️🏠"
+        },
+        {
+            "id": "!39a26b13",
+            "sName": "NSiP",
+            "lName": "Noesis Portable | https://bayme.sh"
+        },
+        {
+            "id": "!92e39da7",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "6PLV",
+            "lName": "KN6PLV-BrkOxfLA-Merlin"
+        },
+        {
+            "id": "!b0438446",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SBMW",
+            "lName": "San Bruno Mtn Weather"
+        },
+        {
+            "id": "!16cfa1b8",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "MSG2",
+            "lName": "mischief (station)"
+        },
+        {
+            "id": "!7c159e1e",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!02ed4dfc",
+            "sName": "4dfc",
+            "lName": "KN6VEP",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!4681f732",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "o_O",
+            "lName": "o_O"
+        },
+        {
+            "id": "!ad5ba760",
+            "sName": "🐖",
+            "lName": "🐖 BayMe.sh"
+        },
+        {
+            "id": "!e92f768c",
+            "sName": "🏡",
+            "lName": "Oak Park Roof Node"
+        },
+        {
+            "id": "!7387d84e",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!cc8744dd",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🛜",
+            "lName": "Hunterprime Base🛜 | bayme.sh"
+        },
+        {
+            "id": "!40058abd",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SSDd",
+            "lName": "Actderby 8abd"
+        },
+        {
+            "id": "!d8572523",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "WEGt",
+            "lName": "KJ6WEG Tracker [bayme.sh]"
+        },
+        {
+            "id": "!748f3ddb",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "6WEG",
+            "lName": "KJ6WEG-BERK-StrCrk-HAP2"
+        },
+        {
+            "id": "!db51bd1c",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!db6fc00d",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SYCS",
+            "lName": "Sequoia YC Mark S  c00d"
+        },
+        {
+            "id": "!c024e920",
+            "sName": "e920",
+            "lName": "Meshtastic e920"
+        },
+        {
+            "id": "!69832320",
+            "sName": "bc0",
+            "lName": "badcard0"
+        },
+        {
+            "id": "!9f59e976",
+            "sName": "FePo",
+            "lName": "Felurian Portable"
+        },
+        {
+            "id": "!4b1b65ca",
+            "sName": "🐵",
+            "lName": "MKB Actual | bayme.sh"
+        },
+        {
+            "id": "!f9d4f670",
+            "sName": "⛄",
+            "lName": "Frosty Base",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!eba3d8e8",
+            "sName": "🐉",
+            "lName": "River Dragon - Base ⛰️"
+        },
+        {
+            "id": "!de9725c9",
+            "sName": "zyso",
+            "lName": "zycsolarbase"
+        },
+        {
+            "id": "!9ea0e9b0",
+            "sName": "Tdie",
+            "lName": "Toadie"
+        },
+        {
+            "id": "!ae2673b7",
+            "sName": "🐱",
+            "lName": "Cat Base 🐱 Los Gatos"
+        },
+        {
+            "id": "!a2ebd95c",
+            "sName": "e3r",
+            "lName": "Three Emus Router",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!f4bfaef3",
+            "sName": "FrgP",
+            "lName": "Frog-Public",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!5461d319",
+            "sName": "📡",
+            "lName": "Enfresko| TRHO📡🏠"
+        },
+        {
+            "id": "!62966ee7",
+            "sName": "ZAPD",
+            "lName": "Zapnet_DSA",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!433ce6f4",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🤖",
+            "lName": "Enfresko | TRHO🪵| bayme.sh | cvme.sh"
+        },
+        {
+            "id": "!f267a45c",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!453fc5d6",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!c69ba130",
+            "sName": "GFRZ",
+            "lName": "Gray Fox Ridge 🦊"
+        },
+        {
+            "id": "!d2e5303a",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!e2afb05f",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "b05f",
+            "lName": "Meshtastic b05f"
+        },
+        {
+            "id": "!04c58048",
+            "sName": "S2V4",
+            "lName": "S2 HeltecV4 mobile "
+        },
+        {
+            "id": "!ed8963c4",
+            "sName": "phx0",
+            "lName": "PhoxBase"
+        },
+        {
+            "id": "!3fbbd0c6",
+            "sName": "NRT2",
+            "lName": "NERT 2 (K1PUP)"
+        },
+        {
+            "id": "!0d8fca8c",
+            "sName": "MN25",
+            "lName": "MeshNet - MN25",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!8da20df2",
+            "sName": "0df2",
+            "lName": "SRMESH Nighthorse | 🌞 | bayme.sh"
+        },
+        {
+            "id": "!fe6aaf67",
+            "sName": "⛵",
+            "lName": "Shipwreck|drex.64|bayme.",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!16ced49c",
+            "sName": "🦍",
+            "lName": "Silverback Station | bayme.sh"
+        },
+        {
+            "id": "!264ea232",
+            "sName": "318S",
+            "lName": "318 Solar Base"
+        },
+        {
+            "id": "!a20a1748",
+            "sName": "SG74",
+            "lName": "KK6DAC-G2-74"
+        },
+        {
+            "id": "!99005060",
+            "sName": "🗿",
+            "lName": "GOBLIN RX SantaCruz | https://bayme.sh"
+        },
+        {
+            "id": "!70b6d943",
+            "sName": "MN01",
+            "lName": "MeshNet - MN01",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!01000614",
+            "sName": "PLVH",
+            "lName": "Berkeley Hills KN6PLV"
+        },
+        {
+            "id": "!01188bc2",
+            "sName": "🌊",
+            "lName": "totally meshed up"
+        },
+        {
+            "id": "!23f05ebb",
+            "sName": "5ebb",
+            "lName": "ThanksFox"
+        },
+        {
+            "id": "!1c7a9d94",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "FMF1",
+            "lName": "FMF1🌳"
+        },
+        {
+            "id": "!f46e6305",
+            "sName": "CTSN",
+            "lName": "Catsign0"
+        },
+        {
+            "id": "!a20a0eb8",
+            "sName": "RIPS",
+            "lName": "Cypress Station"
+        },
+        {
+            "id": "!a0cb7ae4",
+            "sName": "BB71",
+            "lName": "cranky"
+        },
+        {
+            "id": "!9b587c1c",
+            "sName": "SG60",
+            "lName": "KK6DAC-Actual-8647",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!3fc475f6",
+            "sName": "BDM",
+            "lName": "BD-Mine",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!8768329c",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SBCN",
+            "lName": "Sunset Beacon"
+        },
+        {
+            "id": "!ef3ec2b9",
+            "sName": "fpnt",
+            "lName": "Nil.kemorya Pointer"
+        },
+        {
+            "id": "!68132a69",
+            "sName": "🍿",
+            "lName": "The Bloom Beacon",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!4813bb91",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "Red2",
+            "lName": "ATLAS RED 2"
+        },
+        {
+            "id": "!0192ddcb",
+            "sName": "Grn1",
+            "lName": "Doc Green Handheld"
+        },
+        {
+            "id": "!2a9db163",
+            "sName": "SUNL",
+            "lName": "W6SRR Sunol Ridge | http://bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!4ddadd9c",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!733273de",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "BSRA",
+            "lName": "Butte SAR Forest Ranch"
+        },
+        {
+            "id": "!a57537e2",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "Stng",
+            "lName": "Meshage in a bottle"
+        },
+        {
+            "id": "!11fc066b",
+            "sName": "🆎",
+            "lName": "The Arsenal Base"
+        },
+        {
+            "id": "!f0575bc5",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "YuSu",
+            "lName": "Yuba Mesh - Sugar"
+        },
+        {
+            "id": "!8ce48e6a",
+            "sName": "msht",
+            "lName": "Meshtracker83"
+        },
+        {
+            "id": "!a081fe94",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "KW-M",
+            "lName": "KW-Meshpoint-Belmont"
+        },
+        {
+            "id": "!49b3d648",
+            "sName": "CSUS",
+            "lName": "N6OIM HWY50 & 65th_d648"
+        },
+        {
+            "id": "!e8ae0bfc",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SHF2",
+            "lName": "SHTF 2"
+        },
+        {
+            "id": "!e85e4e8c",
+            "sName": "PUPH",
+            "lName": "Paradise USD PHS"
+        },
+        {
+            "id": "!699c9e44",
+            "sName": "NMWh",
+            "lName": "W6NMW - Paradise",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!b29f9e9c",
+            "sName": "🦆",
+            "lName": "KO6BOU_V4"
+        },
+        {
+            "id": "!103b4e91",
+            "sName": "DOLL",
+            "lName": "Dollhouse"
+        },
+        {
+            "id": "!864f4f6a",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "6YX2",
+            "lName": "W6YX-2 📡 | https://bayme.sh"
+        },
+        {
+            "id": "!555a12eb",
+            "sName": "ATIC",
+            "lName": "Attictastic"
+        },
+        {
+            "id": "!18bdd766",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!a0d4afe8",
+            "sName": "PBBS",
+            "lName": "Piedmont Ave BBS"
+        },
+        {
+            "id": "!7cea0a92",
+            "sName": "IDYB",
+            "lName": "IDYL_BASE_Bayme.sh"
+        },
+        {
+            "id": "!4e50dd1d",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "PND4",
+            "lName": "PNDA_4R"
+        },
+        {
+            "id": "!1d4d5131",
+            "sName": "mash",
+            "lName": "tangelo",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!fcc5ca6f",
+            "sName": "ca6f",
+            "lName": "ATLAVOX ca6f"
+        },
+        {
+            "id": "!6b6f8dac",
+            "sName": "SuMe",
+            "lName": "Sudo Mesh"
+        },
+        {
+            "id": "!a0a44fc5",
+            "sName": "🐟",
+            "lName": "Nil.Kemorya"
+        },
+        {
+            "id": "!9c3e66ae",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🦝",
+            "lName": "Trash Panda"
+        },
+        {
+            "id": "!806ff0b2",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "GMK5",
+            "lName": "GiMiKinc6725"
+        },
+        {
+            "id": "!756f88a4",
+            "sName": "owHz",
+            "lName": "ouch that hertz"
+        },
+        {
+            "id": "!a038f7b8",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "YG22",
+            "lName": "N6YP-Ath"
+        },
+        {
+            "id": "!a2eb9fd0",
+            "sName": "YuBe",
+            "lName": "Yuba Mesh - Bear 🌲",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!a7d185f0",
+            "sName": "🙈",
+            "lName": "Hillsdale 🙈"
+        },
+        {
+            "id": "!a0388bbc",
+            "sName": "SMSh",
+            "lName": "San Mateo Shores"
+        },
+        {
+            "id": "!77ce0b0b",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SYCX",
+            "lName": "Sequoia YC Mark X 0b0b"
+        },
+        {
+            "id": "!6efd1644",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "6PLV",
+            "lName": "KN6PLV-BrkOxfLA-Yebes"
+        },
+        {
+            "id": "!20624a21",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "LMW",
+            "lName": "Lake Merritt West"
+        },
+        {
+            "id": "!4d75c109",
+            "sName": "M24",
+            "lName": "M24 c109"
+        },
+        {
+            "id": "!ba8fd65d",
+            "sName": "PLEA",
+            "lName": "🛖 Pleasanton East 🛖",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!59ccfd34",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🚧",
+            "lName": "Public Works SF | bayme.sh"
+        },
+        {
+            "id": "!326eb1ac",
+            "sName": "TAG",
+            "lName": "N6YP TAG Roamer"
+        },
+        {
+            "id": "!3f843975",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "AT2",
+            "lName": "Alta Trail 2 "
+        },
+        {
+            "id": "!a1a76fef",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "ANDY",
+            "lName": "Afghandystan"
+        },
+        {
+            "id": "!75e99378",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "4Cs",
+            "lName": "CCCC WA6KQB | bayme.sh"
+        },
+        {
+            "id": "!8488a0fc",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "HKL",
+            "lName": "Howdy KE6BEE LBL"
+        },
+        {
+            "id": "!9ef4ab08",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!c8647232",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "☄",
+            "lName": "CometKarzi  ☄"
+        },
+        {
+            "id": "!627aad46",
+            "sName": "W6YX",
+            "lName": "W6YX 📡 | https://bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!b0938067",
+            "sName": "KHWD",
+            "lName": "Hayward Executive Airport #2"
+        },
+        {
+            "id": "!d95d3886",
+            "sName": "CPM",
+            "lName": "Chris M (Oakland)"
+        },
+        {
+            "id": "!a2e661e0",
+            "sName": "DEV2",
+            "lName": "DEV2_G2",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!8e2c230f",
+            "sName": "230f",
+            "lName": "Meshtastic 230f",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!2c08c460",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "WEGb",
+            "lName": "KJ6WEG Base [bayme.sh]"
+        },
+        {
+            "id": "!7732caef",
+            "sName": "Tues",
+            "lName": "Tuesday"
+        },
+        {
+            "id": "!37f6e0d9",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "LemW",
+            "lName": "Meshtastic Lemwin b1e2"
+        },
+        {
+            "id": "!4147f8ca",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "f8ca",
+            "lName": "K0CDF f8ca Work Roof PoE"
+        },
+        {
+            "id": "!f90cc2e4",
+            "sName": "mshv",
+            "lName": "meshveins | T-114"
+        },
+        {
+            "id": "!074a4bfd",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!555935ee",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "📡",
+            "lName": "Enfresko 📡🏠| https://bayme.sh"
+        },
+        {
+            "id": "!c38514a6",
+            "sName": "SYCO",
+            "lName": "Sequoia YC Mark O 14a6",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!1f1ffa8b",
+            "sName": "🔋",
+            "lName": "KF6DMA Battery Pack",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!042f53f4",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!e00cded8",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "ded8",
+            "lName": "Heather Gardens"
+        },
+        {
+            "id": "!533cf926",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "sol1",
+            "lName": "solar one"
+        },
+        {
+            "id": "!f0e75446",
+            "sName": "LVMR",
+            "lName": "AI6NB Livermore | bayme.sh | MF",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!1258606e",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "Smst",
+            "lName": "Meshtastic Somerset "
+        },
+        {
+            "id": "!a78c1a2d",
+            "sName": "VTR1",
+            "lName": "VINEYARD TEST ROUTER 01"
+        },
+        {
+            "id": "!04050760",
+            "sName": "NVBS",
+            "lName": "North Bloomfield "
+        },
+        {
+            "id": "!04ef0ee7",
+            "sName": "Vger",
+            "lName": "Ceti Alpha V"
+        },
+        {
+            "id": "!9ea6768c",
+            "sName": "MWAT",
+            "lName": "attic@meshweasel.com"
+        },
+        {
+            "id": "!3446da37",
+            "sName": "KPY4",
+            "lName": "SantaClaraDeadZone",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!1d5c5488",
+            "sName": "SYCE",
+            "lName": "Sequoia YC Mark E 5488",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!a20a116c",
+            "sName": "MDWg",
+            "lName": "KG6MDW Roof G2"
+        },
+        {
+            "id": "!492f4cc7",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "CLNT",
+            "lName": "The Bigger One"
+        },
+        {
+            "id": "!a0c3e467",
+            "sName": "Lugh",
+            "lName": "Lugh",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!16c3f5a8",
+            "sName": "ZmBG",
+            "lName": "ZoomBaseG2 (Cupertino)",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!fed77810",
+            "sName": "BSAR",
+            "lName": "Butte SAR",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!95bbb351",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SYCA",
+            "lName": "Sequoia YC Mark A b351"
+        },
+        {
+            "id": "!037a09a8",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "☘",
+            "lName": "JK | SHCP ☘"
+        },
+        {
+            "id": "!a2ea30d8",
+            "sName": "🍪",
+            "lName": "🍪👹 Digger Hill (MF)"
+        },
+        {
+            "id": "!6984fe4c",
+            "sName": "PJV1",
+            "lName": "W6PJV "
+        },
+        {
+            "id": "!e514d1df",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!b3107949",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "MN15",
+            "lName": "MeshNet - MN15"
+        },
+        {
+            "id": "!2b3cfb40",
+            "sName": "YuGo",
+            "lName": "Yuba Mesh - Govenor's"
+        },
+        {
+            "id": "!e4e38de6",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!250d691f",
+            "sName": "MTH",
+            "lName": "MisterTG Home"
+        },
+        {
+            "id": "!ba66f7f0",
+            "sName": "AQ57",
+            "lName": "AQM57528"
+        },
+        {
+            "id": "!d3e80ad6",
+            "sName": "0ad6",
+            "lName": "Meshtastic 0ad6"
+        },
+        {
+            "id": "!a0cb74a8",
+            "sName": "BB33",
+            "lName": "akula"
+        },
+        {
+            "id": "!5bf11cab",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "C261",
+            "lName": "LEP-SC-261"
+        },
+        {
+            "id": "!16c50948",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "Eski",
+            "lName": "Eski_99"
+        },
+        {
+            "id": "!91cdc887",
+            "sName": "🌻",
+            "lName": "Sungazer | bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!273c3874",
+            "sName": "HIGH",
+            "lName": "The Highlands (KF6DMA) https://bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!155d263d",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "BPHB",
+            "lName": "Baldwin Park Home Base"
+        },
+        {
+            "id": "!024a54e8",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "Mt.Z",
+            "lName": "Mt. Zion (JB)"
+        },
+        {
+            "id": "!58740cd9",
+            "sName": "BB30",
+            "lName": "ratchet"
+        },
+        {
+            "id": "!f1b88ed8",
+            "sName": "8ed8",
+            "lName": "Wiggy 8ed8"
+        },
+        {
+            "id": "!4e24e1d2",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "L610",
+            "lName": "Lookout610"
+        },
+        {
+            "id": "!576c4c24",
+            "sName": "PARp",
+            "lName": "W6PAR"
+        },
+        {
+            "id": "!a038f880",
+            "sName": "ɷ80",
+            "lName": "BLUE fixed f880"
+        },
+        {
+            "id": "!ddf75292",
+            "sName": "QBAG",
+            "lName": "Quarks | BayMe.sh"
+        },
+        {
+            "id": "!49b5e1d4",
+            "sName": "0777",
+            "lName": "NotAVirus.exe"
+        },
+        {
+            "id": "!e28ba12f",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "Brly",
+            "lName": "Briones Relay"
+        },
+        {
+            "id": "!67f7cac1",
+            "sName": "DUDE",
+            "lName": "Big Lebowski 🎳"
+        },
+        {
+            "id": "!b2a70888",
+            "sName": " TI ",
+            "lName": "Treasure Island"
+        },
+        {
+            "id": "!6f5e4690",
+            "sName": "LEPA",
+            "lName": "LEPA Solar",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!9e805bf7",
+            "sName": "mvuc",
+            "lName": "meshveins | uConsole"
+        },
+        {
+            "id": "!b2a723f0",
+            "sName": "DISm",
+            "lName": "K6DIS-M",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!c21b5ba6",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "KAVB",
+            "lName": "KO6AVA T1000-E"
+        },
+        {
+            "id": "!839eecc4",
+            "sName": "SNMA",
+            "lName": "MeshNet - SNMA"
+        },
+        {
+            "id": "!744bdfb1",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "CCSL",
+            "lName": "CC_SOLAR1 bayme.sh"
+        },
+        {
+            "id": "!61474ffb",
+            "sName": "🐈",
+            "lName": "Fletcher Bayme.sh Base",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!7a6c6764",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "3emu",
+            "lName": "Three Emus"
+        },
+        {
+            "id": "!5981f744",
+            "sName": "GALR",
+            "lName": "GA LongRange"
+        },
+        {
+            "id": "!1037270e",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "P129",
+            "lName": "P129"
+        },
+        {
+            "id": "!961dc6b0",
+            "sName": "c6b0",
+            "lName": "Meshtastic c6b0"
+        },
+        {
+            "id": "!69832234",
+            "sName": "zydt",
+            "lName": "zyppr-downtown-base",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!16cfa430",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "a430",
+            "lName": "Meshtastic a430"
+        },
+        {
+            "id": "!b2a7c2a0",
+            "sName": "c2a0",
+            "lName": "KB6JSM"
+        },
+        {
+            "id": "!7ab8a618",
+            "sName": "MN17",
+            "lName": "MeshNet - MN17"
+        },
+        {
+            "id": "!2fb1e686",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SYCP",
+            "lName": "Sequoia YC Mark P e686"
+        },
+        {
+            "id": "!16ced35c",
+            "sName": "🧪",
+            "lName": "Test Dept | bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!bbb8a1f8",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🍟",
+            "lName": "Fries"
+        },
+        {
+            "id": "!1c4966e4",
+            "sName": "Roof",
+            "lName": "Doc Roof"
+        },
+        {
+            "id": "!8d70d802",
+            "sName": "JKMF",
+            "lName": "Mount Jackson - MF",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!274eb8db",
+            "sName": "MN24",
+            "lName": "MeshNet - MN24",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!16cfa3b8",
+            "sName": "BUTT",
+            "lName": "Sutter Buttes Router",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!f18a1e1b",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "WLSR",
+            "lName": "Westlake solar roof"
+        },
+        {
+            "id": "!4ed2b004",
+            "sName": "anti",
+            "lName": "anti"
+        },
+        {
+            "id": "!bf3e80d6",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!b0e103ef",
+            "sName": "CB.A",
+            "lName": "CB.Alt",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!926a8c50",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!698572a4",
+            "sName": "ESP",
+            "lName": "ESP Gilroy"
+        },
+        {
+            "id": "!1ea7efbf",
+            "sName": "ARTM",
+            "lName": "Artemis Station | https://bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!01057821",
+            "sName": "AERO",
+            "lName": "AeroBase"
+        },
+        {
+            "id": "!2c72d41c",
+            "sName": "🌹",
+            "lName": "Mesha Rosa West | MF | Bayme.sh"
+        },
+        {
+            "id": "!5dbcf690",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!bf62c0f2",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!69858fd8",
+            "sName": "DIV4",
+            "lName": "derekivey",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!64ed3339",
+            "sName": "CFPb",
+            "lName": "CFP BASE"
+        },
+        {
+            "id": "!9e7582c4",
+            "sName": "82c4",
+            "lName": "Meshtastic 82c4"
+        },
+        {
+            "id": "!ad9b2a82",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "6PAP",
+            "lName": "K6PAP bayme.sh"
+        },
+        {
+            "id": "!5e1007d3",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "DBMF",
+            "lName": "Diablo W6CX MF"
+        },
+        {
+            "id": "!6748fd3c",
+            "sName": "PEAK",
+            "lName": "Fremont Peak 📡 | https://bayme.sh"
+        },
+        {
+            "id": "!f34c6541",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🍪",
+            "lName": "🍪👹 Spring Hill"
+        },
+        {
+            "id": "!550ad645",
+            "sName": "ML",
+            "lName": "Mag_Lem"
+        },
+        {
+            "id": "!321a1157",
+            "sName": "THYR",
+            "lName": "Mt Thayer 📡 | https://bayme.sh"
+        },
+        {
+            "id": "!1845ee31",
+            "sName": "plov",
+            "lName": "Snowy Plover"
+        },
+        {
+            "id": "!996e9e13",
+            "sName": "YEDX",
+            "lName": "Yuba Mesh - EDX",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!a2e9e244",
+            "sName": "K6B",
+            "lName": "KO6CNT Base"
+        },
+        {
+            "id": "!60095485",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "ATV",
+            "lName": "K6ATV (Gilroy)"
+        },
+        {
+            "id": "!4ece79d0",
+            "sName": "TEA3",
+            "lName": "K6TEA-3",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!b03d81f8",
+            "sName": "KB6J",
+            "lName": "KB6J 81f8"
+        },
+        {
+            "id": "!c0bfaf37",
+            "sName": "af37",
+            "lName": "BlueJay",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!fc5336de",
+            "sName": "36de",
+            "lName": "Meshtastic 36de"
+        },
+        {
+            "id": "!42faf264",
+            "sName": "RatP",
+            "lName": "Ratt Public ",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!1809fcb2",
+            "sName": "AFM",
+            "lName": "AFM Mobile/Moto Ch=MOTO  PSW/MQ=="
+        },
+        {
+            "id": "!0a765833",
+            "sName": "PUDO",
+            "lName": "Paradise USD DO"
+        },
+        {
+            "id": "!1ba29c5c",
+            "sName": "9c5c",
+            "lName": "Meshtastic 9c5c"
+        },
+        {
+            "id": "!48de0817",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "mbeS",
+            "lName": "mbeards solar"
+        },
+        {
+            "id": "!b03b3db8",
+            "sName": "3db8",
+            "lName": "LarkspurIsle",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!617786ca",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "GMSH",
+            "lName": "Gilgamesh 𒀭𒄑𒂆𒈦 bayme.sh"
+        },
+        {
+            "id": "!2966a2d5",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!378a1849",
+            "sName": "🗝",
+            "lName": "The Secret Alley"
+        },
+        {
+            "id": "!226268f9",
+            "sName": "Bear",
+            "lName": "Solar Bear Node "
+        },
+        {
+            "id": "!f80f5cf6",
+            "sName": "5cf6",
+            "lName": "Meshtastic 5cf6"
+        },
+        {
+            "id": "!4c1b4d0c",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!9e76a3a8",
+            "sName": "SSDH",
+            "lName": "Actderby hop"
+        },
+        {
+            "id": "!5fdda007",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "⚡",
+            "lName": "JK | Zeus ⚡"
+        },
+        {
+            "id": "!560eaaa4",
+            "sName": "HOWE",
+            "lName": "Piedmont Avenue ✨ bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!588c11aa",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "SG76",
+            "lName": "KK6DAC-ACS-76"
+        },
+        {
+            "id": "!678933a4",
+            "sName": "33a4",
+            "lName": "Meshtastic 33a4"
+        },
+        {
+            "id": "!a0387fc0",
+            "sName": "🍪",
+            "lName": "🍪👹 Cookiebot MF (cm/? for menu)"
+        },
+        {
+            "id": "!fdbd9827",
+            "sName": "9827",
+            "lName": "Meshtastic 9827"
+        },
+        {
+            "id": "!3e3e430e",
+            "sName": "BKFR",
+            "lName": "Berkeley-Flats-Relay"
+        },
+        {
+            "id": "!db51d808",
+            "sName": "d808",
+            "lName": "Meshtastic d808",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!360951f9",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!699c9fe4",
+            "sName": "9fe4",
+            "lName": "Meshtastic 9fe4"
+        },
+        {
+            "id": "!3274031c",
+            "sName": "cos6",
+            "lName": "Cosmo6-mobile"
+        },
+        {
+            "id": "!c8ed7ced",
+            "sName": "PRTN",
+            "lName": "portablesounds - bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!435783d8",
+            "sName": "CHEK",
+            "lName": "Chekov"
+        },
+        {
+            "id": "!1ba67744",
+            "sName": "CYRB",
+            "lName": "Cyreric Base"
+        },
+        {
+            "id": "!4e4cfe40",
+            "sName": "MN02",
+            "lName": "MeshNet - MN02",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!7c5a597c",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!c84d563c",
+            "sName": "😼",
+            "lName": "EL GATO 562"
+        },
+        {
+            "id": "!abbd6017",
+            "sName": "TEA1",
+            "lName": "K6TEA-1 | bayme.sh"
+        },
+        {
+            "id": "!2ef19f7f",
+            "sName": "ORNG",
+            "lName": "Orange Base"
+        },
+        {
+            "id": "!6983bebc",
+            "sName": "EWOK",
+            "lName": "EWOK V4 Blue"
+        },
+        {
+            "id": "!01aba82f",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "TEA5",
+            "lName": "K6TEA-5"
+        },
+        {
+            "id": "!a2ebd28c",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!2b8cfeed",
+            "sName": "TMCr",
+            "lName": "TomMCoatesRoof"
+        },
+        {
+            "id": "!6c73e088",
+            "sName": "SRMW",
+            "lName": "SRMESH WEST | bayme.sh"
+        },
+        {
+            "id": "!3cbcdb6e",
+            "sName": "db6e",
+            "lName": "ANT H2T RED"
+        },
+        {
+            "id": "!4e6c86e0",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "LEPQ",
+            "lName": "LEP HQ 86e0"
+        },
+        {
+            "id": "!e85a3684",
+            "sName": "SG81",
+            "lName": "KK6DAC-GBS-81"
+        },
+        {
+            "id": "!766e01bd",
+            "sName": "Hamr",
+            "lName": "Slapjack"
+        },
+        {
+            "id": "!cbcf776f",
+            "sName": "☀",
+            "lName": "Pete AI6NB 🛰 MF"
+        },
+        {
+            "id": "!02666919",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "FzBz",
+            "lName": "Fuzz Business | bayme.sh"
+        },
+        {
+            "id": "!6d00f114",
+            "sName": "UCSC",
+            "lName": "KO6HNG"
+        },
+        {
+            "id": "!e560b0a7",
+            "sName": "n_1w",
+            "lName": "N916_1w"
+        },
+        {
+            "id": "!a0352604",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "TOW",
+            "lName": "KF6DMA | Top Of the World | Livermore"
+        },
+        {
+            "id": "!a2ea272c",
+            "sName": "YuBa",
+            "lName": "Yuba Mesh - Base 🏔️",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!ad1bac09",
+            "sName": "KPY3",
+            "lName": "TravelBot"
+        },
+        {
+            "id": "!b1ac13fa",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!9fb1b1a3",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "0cat",
+            "lName": "Obscure Cat Puns"
+        },
+        {
+            "id": "!7597542e",
+            "sName": "MOH6",
+            "lName": "MORXHUB"
+        },
+        {
+            "id": "!e6b8bbac",
+            "sName": "FunD",
+            "lName": "Meshtastic bbac"
+        },
+        {
+            "id": "!a0387f98",
+            "sName": "KMRT",
+            "lName": "Kings Mountain Radio Tower"
+        },
+        {
+            "id": "!f267a328",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "HKE",
+            "lName": "Howdy KE6BEE Elm"
+        },
+        {
+            "id": "!d9584d39",
+            "sName": "4d39",
+            "lName": "Meshtastic 4d39",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!9f9ea9e9",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "MTN",
+            "lName": "zouk a9e9"
+        },
+        {
+            "id": "!f66b00d4",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!c44bf558",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!69850d34",
+            "sName": "PLMS",
+            "lName": "Plumas Lake"
+        },
+        {
+            "id": "!eb167482",
+            "sName": "BZPH",
+            "lName": "Beezy PiHat"
+        },
+        {
+            "id": "!92fb42bc",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🚦",
+            "lName": "CB 42bc"
+        },
+        {
+            "id": "!9740078b",
+            "sName": "%GP",
+            "lName": "%Glen Park"
+        },
+        {
+            "id": "!4c59e186",
+            "sName": "Enee",
+            "lName": "Eneemeanie bayme.sh"
+        },
+        {
+            "id": "!6ad5906c",
+            "sName": "906c",
+            "lName": "Meshtastic 906c 🍊"
+        },
+        {
+            "id": "!e566a926",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "a926",
+            "lName": "Meshtastic a926"
+        },
+        {
+            "id": "!67c1072f",
+            "sName": "072f",
+            "lName": "Meshtastic 072f - esev"
+        },
+        {
+            "id": "!3d475b84",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "PND3",
+            "lName": "PNDA_ESC"
+        },
+        {
+            "id": "!94ef0b5c",
+            "sName": "0b5c",
+            "lName": "AA6PP TAM E Repeater"
+        },
+        {
+            "id": "!bb670268",
+            "sName": "muon",
+            "lName": "Meshtastic 0268"
+        },
+        {
+            "id": "!7c5b312c",
+            "sName": "312c",
+            "lName": "K6TRF Home Node"
+        },
+        {
+            "id": "!9c958f70",
+            "sName": "Sub",
+            "lName": "Substantia "
+        },
+        {
+            "id": "!f2fb9569",
+            "sName": "💎",
+            "lName": "Black Diamond Mt"
+        },
+        {
+            "id": "!8145ec4a",
+            "sName": "ec4a",
+            "lName": "shotwell labs"
+        },
+        {
+            "id": "!305ec26f",
+            "sName": "ORNG",
+            "lName": "Orange Client",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!0f449a3e",
+            "sName": "dma",
+            "lName": "kf6dma t1000"
+        },
+        {
+            "id": "!fcacdf54",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!4703f8ab",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "pb01",
+            "lName": "Phoenix Base 001"
+        },
+        {
+            "id": "!70678af0",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "BMK_",
+            "lName": "BMK Roof"
+        },
+        {
+            "id": "!699b68ec",
+            "sName": "DILv",
+            "lName": "Dev Base Node - Dilly",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!5b50988f",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!ecc6e437",
+            "sName": "🥸",
+            "lName": "Rusty Shackleford"
+        },
+        {
+            "id": "!e2235b99",
+            "sName": "W6YL",
+            "lName": "W6YL | bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!8db9254a",
+            "sName": "HONK",
+            "lName": "Tx-2-U-GOOSE"
+        },
+        {
+            "id": "!69849f6c",
+            "sName": "FOEr",
+            "lName": "N6OIM Fair Oaks East_9f6c"
+        },
+        {
+            "id": "!8587d864",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "EMU2",
+            "lName": "EMU2🦜 | https://bayme.sh"
+        },
+        {
+            "id": "!7f2b0986",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!4b0f28dc",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "357",
+            "lName": "Smith and Wesson"
+        },
+        {
+            "id": "!33fcfd4c",
+            "sName": "fd4c",
+            "lName": "Meshtastic fd4c"
+        },
+        {
+            "id": "!5967bc84",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🍔",
+            "lName": "Burger (G2)"
+        },
+        {
+            "id": "!b2a72504",
+            "sName": "2504",
+            "lName": "2504"
+        },
+        {
+            "id": "!40c9558d",
+            "sName": "WILL",
+            "lName": "Will's 1W Base | willme.sh"
+        },
+        {
+            "id": "!7e273c82",
+            "sName": "🍍",
+            "lName": "Sotol"
+        },
+        {
+            "id": "!7ee0872e",
+            "sName": "wave",
+            "lName": "Meshtastic 872e"
+        },
+        {
+            "id": "!61a0a3ef",
+            "sName": "a3ef",
+            "lName": "Solar a3ef | https://bayme.sh"
+        },
+        {
+            "id": "!a2ebdc9c",
+            "sName": "BPG2",
+            "lName": "Bismarck Palace G2"
+        },
+        {
+            "id": "!246f1f74",
+            "sName": "rizn",
+            "lName": "rizenfrmtheashes "
+        },
+        {
+            "id": "!b5143460",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "JBSe",
+            "lName": "Mt View JBSe"
+        },
+        {
+            "id": "!49b55048",
+            "sName": "🐳",
+            "lName": "🐳 Beluga Base | bayme.sh"
+        },
+        {
+            "id": "!bc9d24f1",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!435a8038",
+            "sName": "bnyl",
+            "lName": "BunnyLeft"
+        },
+        {
+            "id": "!2cd8ca02",
+            "sName": "fpos",
+            "lName": "NilKemorya Tracker"
+        },
+        {
+            "id": "!27cbfa68",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!945f2516",
+            "sName": "NOak",
+            "lName": "NullDevice.Net-Oak"
+        },
+        {
+            "id": "!465a52f2",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!7ab8cfd4",
+            "sName": "P121",
+            "lName": "P121"
+        },
+        {
+            "id": "!244366db",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "66db",
+            "lName": "KN6VEP"
+        },
+        {
+            "id": "!698242a0",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!16c3f708",
+            "sName": "B303",
+            "lName": "TB-303 G2 📡 | bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!4a13401a",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!db73f392",
+            "sName": "P130",
+            "lName": "P130"
+        },
+        {
+            "id": "!63dcc3a5",
+            "sName": "KJAY",
+            "lName": "Cirrus Goes Sailing ⛵🌤"
+        },
+        {
+            "id": "!89e182a4",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!47c3a591",
+            "sName": "SFNB",
+            "lName": "SF North Beach | Rooftop | bayme.sh"
+        },
+        {
+            "id": "!2055fe2d",
+            "sName": "🍌",
+            "lName": "Banana"
+        },
+        {
+            "id": "!1ba1971c",
+            "sName": "971c",
+            "lName": "Meshtastic 971c"
+        },
+        {
+            "id": "!e85b1327",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!b2a7c924",
+            "sName": "s024",
+            "lName": "arrrr s0 🥷🏴‍☠️🚢"
+        },
+        {
+            "id": "!6b6e8d2f",
+            "sName": "8d2f",
+            "lName": "rizen | OAK Uptown 8d2f | bayme.sh"
+        },
+        {
+            "id": "!1f1d2206",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!699c9c94",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!2da14fdc",
+            "sName": "4fdc",
+            "lName": "Leake Wdlnd Roof 4fdc"
+        },
+        {
+            "id": "!a038f620",
+            "sName": "⭐",
+            "lName": "Viking"
+        },
+        {
+            "id": "!749a76a4",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🏠",
+            "lName": "Fairfield solar https://bayme.sh"
+        },
+        {
+            "id": "!b2a77c34",
+            "sName": "BSZN",
+            "lName": "Beis Zion 🐺"
+        },
+        {
+            "id": "!1f0c3123",
+            "sName": "RplA",
+            "lName": "RumpleDumpleAuto"
+        },
+        {
+            "id": "!b03d3838",
+            "sName": "3838",
+            "lName": "Meshtastic 3838"
+        },
+        {
+            "id": "!8fa80df4",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!a33f550f",
+            "sName": "🌊",
+            "lName": "ORKO",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!d4a71928",
+            "sName": "1928",
+            "lName": "Meshtastic 1928"
+        },
+        {
+            "id": "!6fe79724",
+            "sName": "💡",
+            "lName": "Crafty Muse"
+        },
+        {
+            "id": "!bff90a27",
+            "sName": "🫪",
+            "lName": "AL1W"
+        },
+        {
+            "id": "!53b1b0d8",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "dilb",
+            "lName": "Dilly_Base"
+        },
+        {
+            "id": "!0efd2143",
+            "sName": "⛵",
+            "lName": "Pablo Solar",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!a2eba1f0",
+            "sName": "MRPG",
+            "lName": "K6MRP Base Node G2"
+        },
+        {
+            "id": "!3364e7d3",
+            "sName": "4570",
+            "lName": "Henry",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!43b7936c",
+            "sName": "r26c",
+            "lName": "rarrr r2 🥷🏴‍☠️"
+        },
+        {
+            "id": "!16c3f6cc",
+            "sName": "MOD",
+            "lName": "Modesto G2"
+        },
+        {
+            "id": "!232d7f20",
+            "sName": "🐀",
+            "lName": "WoodRat"
+        },
+        {
+            "id": "!f2340e58",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!435b2e74",
+            "sName": "🏎",
+            "lName": "Wessgti"
+        },
+        {
+            "id": "!bdf0a460",
+            "sName": "qq",
+            "lName": "qqmesh a460"
+        },
+        {
+            "id": "!3dbc8b60",
+            "sName": "YuRD",
+            "lName": "Yuba Mesh - River Dragon"
+        },
+        {
+            "id": "!3cf3c3c7",
+            "sName": "ZoRa",
+            "lName": "✨ ZoRa ✨"
+        },
+        {
+            "id": "!b7b86f01",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!27ef7e24",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "BnHm",
+            "lName": "Ben Home - ben@N6BRL.com"
+        },
+        {
+            "id": "!a6c2469c",
+            "sName": "BEBE",
+            "lName": "Berkloid (bayme.sh) "
+        },
+        {
+            "id": "!b29fa440",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!1f8f47ba",
+            "sName": "YYP2",
+            "lName": "N6YP Actual ATH"
+        },
+        {
+            "id": "!9ee78f88",
+            "sName": "elrf",
+            "lName": "Electro roof ",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!db51e5e0",
+            "sName": "ubsm",
+            "lName": "ugly brown shed mesh"
+        },
+        {
+            "id": "!d85004f9",
+            "sName": "PHSS",
+            "lName": "Piner High School Solar | bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!9e9e2528",
+            "sName": "0x0F",
+            "lName": "0x0F"
+        },
+        {
+            "id": "!f35bc3d1",
+            "sName": "BIC",
+            "lName": "Bethel Island Ca",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!236c0cd4",
+            "sName": "CH04",
+            "lName": "Chalupa Seeed"
+        },
+        {
+            "id": "!49b5f158",
+            "sName": "SLY",
+            "lName": "Dashtastic f158"
+        },
+        {
+            "id": "!c6d6814a",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!6984d350",
+            "sName": "🎏",
+            "lName": "Nil.kemorya Roof"
+        },
+        {
+            "id": "!6303603f",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!542ee0ae",
+            "sName": "e0ae",
+            "lName": "ANT H2T GR"
+        },
+        {
+            "id": "!43596a28",
+            "sName": "GRCB",
+            "lName": "GRCB Hollister"
+        },
+        {
+            "id": "!8d8c8800",
+            "sName": "8800",
+            "lName": "Doerr Park G1 8800"
+        },
+        {
+            "id": "!db29caec",
+            "sName": "cos1",
+            "lName": "Cosmo1"
+        },
+        {
+            "id": "!087bc48c",
+            "sName": "GK00",
+            "lName": "Gabe Base"
+        },
+        {
+            "id": "!58deed0b",
+            "sName": "mngv",
+            "lName": "G'Ville Testing",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!9e779474",
+            "sName": "N/A",
+            "lName": "Send Nodes"
+        },
+        {
+            "id": "!0640d45f",
+            "sName": "CB.H",
+            "lName": "CB.Handheld",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!bafb8e9a",
+            "sName": "Lion",
+            "lName": "Lion Duo"
+        },
+        {
+            "id": "!d1c8ca58",
+            "sName": "CAWC",
+            "lName": "Walnut Central | bayme.sh",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!0aca42fc",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "WKM1",
+            "lName": "WLKR01M1"
+        },
+        {
+            "id": "!c67e9e82",
+            "sName": "1D8D",
+            "lName": "SF 1D8D"
+        },
+        {
+            "id": "!a0388894",
+            "sName": "Davs",
+            "lName": "Davis Home Base"
+        },
+        {
+            "id": "!263ecac5",
+            "sName": "NMWt",
+            "lName": "W6NMW Paradise"
+        },
+        {
+            "id": "!6983be20",
+            "sName": "S2B",
+            "lName": "Sierra2-Base"
+        },
+        {
+            "id": "!47704dbf",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!7d2d3288",
+            "sName": "SG00",
+            "lName": "KK6DAC-Pager-00"
+        },
+        {
+            "id": "!e1c11585",
+            "sName": "pckt",
+            "lName": "Dashtastic 1585"
+        },
+        {
+            "id": "!eb21ee14",
+            "sName": "✅2",
+            "lName": "Meshcheck 02"
+        },
+        {
+            "id": "!3b46b200",
+            "sName": "PRPL",
+            "lName": "Purple"
+        },
+        {
+            "id": "!9e51c408",
+            "sName": "ALC*",
+            "lName": "ALC_X",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!465413d7",
+            "sName": "clay",
+            "lName": "CucumberClay"
+        },
+        {
+            "id": "!4a7c31bc",
+            "sName": "WIZ",
+            "lName": "KF6DMA Wisblock 0.5w sleep test2"
+        },
+        {
+            "id": "!659a1ace",
+            "sName": "LVKW",
+            "lName": "LVK-SW-BASE"
+        },
+        {
+            "id": "!da97398c",
+            "sName": "CRMB",
+            "lName": "cr4mb0"
+        },
+        {
+            "id": "!b29fa438",
+            "sName": "KWH2",
+            "lName": "KWH2 ( H.v4 )| http://bayme.sh"
+        },
+        {
+            "id": "!c3d0d28d",
+            "sName": "👽",
+            "lName": "JK | Gray 👽",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!3d356422",
+            "sName": "mdlp",
+            "lName": "Mt Davidson lucky punk"
+        },
+        {
+            "id": "!a0388c2c",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!d0743801",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!16c3f51c",
+            "sName": "WaHo",
+            "lName": "WallerHoller"
+        },
+        {
+            "id": "!3f9187f0",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "Mat",
+            "lName": "KJ6AHU"
+        },
+        {
+            "id": "!7af1b31f",
+            "sName": "NdSp",
+            "lName": "Node Soup",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!da1a4120",
+            "sName": "SRR1",
+            "lName": "SR66-Repeater-1"
+        },
+        {
+            "id": "!9ea0bb54",
+            "sName": "OTER",
+            "lName": "Mustelid"
+        },
+        {
+            "id": "!6985a734",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!a35bbabc",
+            "sName": "phgn",
+            "lName": "phoeagon"
+        },
+        {
+            "id": "!6984e8b4",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "e8b4",
+            "lName": "Meshtastic e8b4"
+        },
+        {
+            "id": "!ba655898",
+            "sName": "BBed",
+            "lName": "BB-repeater"
+        },
+        {
+            "id": "!5793ef32",
+            "sName": "EFY",
+            "lName": "KN6EFY Card"
+        },
+        {
+            "id": "!da73ef9c",
+            "sName": "ef9c",
+            "lName": "Meshtastic ef9c 🏴"
+        },
+        {
+            "id": "!b03bb744",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!1397139f",
+            "sName": "🎸",
+            "lName": "KJ6TGN-4258"
+        },
+        {
+            "id": "!2d801f0c",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!c5b441c2",
+            "sName": "SQSF",
+            "lName": "Seeed Solar Quokka SF"
+        },
+        {
+            "id": "!b76a0ac5",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!ed7fdf88",
+            "sName": "rgnr",
+            "lName": "ragnar"
+        },
+        {
+            "id": "!56576b77",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "🍁",
+            "lName": "mvpl"
+        },
+        {
+            "id": "!d45b999c",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "3C47",
+            "lName": "Meshtastic 999c"
+        },
+        {
+            "id": "!b7bf410c",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!16ced258",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!b29faaa4",
+            "sName": "mbe2",
+            "lName": "mbeards big"
+        },
+        {
+            "id": "!0a70eae7",
+            "sName": "🚤",
+            "lName": "meshtuary"
+        },
+        {
+            "id": "!890aa2a5",
+            "sName": "WATT",
+            "lName": "Watt\nis this"
+        },
+        {
+            "id": "!4ac8dd86",
+            "sName": "SLIC",
+            "lName": "Slice"
+        },
+        {
+            "id": "!a2eb4138",
+            "sName": "N2M2",
+            "lName": "Nullrouten 🏠 | https://bayme.sh"
+        },
+        {
+            "id": "!5e40453c",
+            "sName": "☀",
+            "lName": "Sunbeamer"
+        },
+        {
+            "id": "!6984a1ec",
+            "sName": "P133",
+            "lName": "P133"
+        },
+        {
+            "id": "!71d07148",
+            "sName": "C261",
+            "lName": "LEP-SC-261",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!20b1663e",
+            "sName": "⛺",
+            "lName": "BatteryBoxBase"
+        },
+        {
+            "id": "!0564f2d8",
+            "sName": "EFY",
+            "lName": "KN6EFY Echo"
+        },
+        {
+            "id": "!f7249ca8",
+            "sName": "9ca8",
+            "lName": "SlowLaugh 9ca8"
+        },
+        {
+            "id": "!a20a0f0c",
+            "sName": "TnHT",
+            "lName": "NCC-1701-T San Benito Co, California"
+        },
+        {
+            "id": "!9739c736",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!49b67894",
+            "sName": "7894",
+            "lName": "Meshtastic 7894"
+        },
+        {
+            "id": "!698433d8",
+            "sName": "👾",
+            "lName": "PostaBase"
+        },
+        {
+            "id": "!f0415193",
+            "sName": "☄",
+            "lName": "Meteor Pro",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!d2c34888",
+            "sName": "Beer",
+            "lName": "AJ6PX Roof 4888"
+        },
+        {
+            "id": "!9028c4b8",
+            "sName": "SOLO",
+            "lName": "Never tell me the odds"
+        },
+        {
+            "id": "!698223a8",
+            "sName": "DAE",
+            "lName": "DAE (wormhole)"
+        },
+        {
+            "id": "!089e2c2a",
+            "sName": "ZSSJ",
+            "lName": "Zoomies ☀ 🏠 SSJ | bayme.sh"
+        },
+        {
+            "id": "!73a4414a",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!03df30d7",
+            "telemetry": [
+                {
+                    "time": 5
+                },
+                {
+                    "time": 5
+                }
+            ],
+            "sName": "void",
+            "lName": "Void"
+        },
+        {
+            "id": "!a86802a8",
+            "sName": "RIPR",
+            "lName": "Ripon"
+        },
+        {
+            "id": "!068d16f0",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!da5755dc",
+            "sName": "🐙",
+            "lName": "Squidnatch "
+        },
+        {
+            "id": "!e010b060",
+            "sName": "crow",
+            "lName": "crow advance"
+        },
+        {
+            "id": "!33602748",
+            "sName": "WBBa",
+            "lName": "WildBill-Base"
+        },
+        {
+            "id": "!1e7bacd5",
+            "sName": "f0af",
+            "lName": "Meshtastic f0af"
+        },
+        {
+            "id": "!26606bed",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!5e3151cd",
+            "sName": "phxi",
+            "lName": "Phoxii"
+        },
+        {
+            "id": "!13296430",
+            "sName": "ALC3",
+            "lName": "ALC_L.R."
+        },
+        {
+            "id": "!ab2e0680",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!4d93b120",
+            "sName": "b120",
+            "lName": "Meshtastic b120"
+        },
+        {
+            "id": "!dea0d180",
+            "sName": "clnt",
+            "lName": "The Chatty Repeater (mobile)"
+        },
+        {
+            "id": "!84824c6f",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!531b97df",
+            "sName": "97df",
+            "lName": "KB6JSM#2"
+        },
+        {
+            "id": "!db06f512",
+            "sName": "OPZ2",
+            "lName": "KI6OPZ-GBS-02"
+        },
+        {
+            "id": "!e21ce5e5",
+            "sName": "esev",
+            "lName": "esev (K3SEV)"
+        },
+        {
+            "id": "!c9a3b1d2",
+            "sName": "SGU1",
+            "lName": "SGUb1d2"
+        },
+        {
+            "id": "!9e7677c4",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!43b6ee08",
+            "sName": "COE5",
+            "lName": "Coe West"
+        },
+        {
+            "id": "!d45aae94",
+            "sName": "N_In",
+            "lName": "N916_Inside"
+        },
+        {
+            "id": "!ed24b763",
+            "sName": "b763",
+            "lName": "deimos_b763"
+        },
+        {
+            "id": "!9ea1faa8",
+            "sName": "PwnT",
+            "lName": "Pwntastic SF | https://bayme.sh"
+        },
+        {
+            "id": "!4040a8f8",
+            "sName": "MPrk",
+            "lName": "MPrk_a8f8"
+        },
+        {
+            "id": "!a6964dc0",
+            "sName": "MMV4",
+            "lName": "Meshmania 🏎️"
+        },
+        {
+            "id": "!c380f514",
+            "sName": "CVHT",
+            "lName": "CV Hilltop"
+        },
+        {
+            "id": "!66296f16",
+            "telemetry": [
+                {
+                    "time": 5
+                }
+            ]
+        },
+        {
+            "id": "!69858f58",
+            "sName": "Lnk",
+            "lName": "Linker"
+        },
+        {
+            "id": "!9e779a50",
+            "sName": "9a50",
+            "lName": "Meshtastic 9a50"
+        }
+    ]
+}
